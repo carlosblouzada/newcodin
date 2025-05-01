@@ -47,7 +47,7 @@ const Header: React.FC = () => {
         <div className="flex items-center justify-between">
           {/* Logo */}
           <a href="#home" className="flex items-center" onClick={handleNavClick}>
-            <img src="src\assets\logo.jpg" alt="Impulse RH" className="h-10" />
+            <img src="src\assets\logosemfundo.png" alt="Impulse RH" className="h-10" />
           </a>
 
           {/* Desktop Navigation */}
