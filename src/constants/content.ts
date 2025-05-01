@@ -195,4 +195,4 @@ export const METRICS: Metric[] = [
   }
 ];
 
-export const WHATSAPP_LINK = "https://wa.me/5511999999999?text=Olá,%20gostaria%20de%20saber%20mais%20sobre%20a%20Impulse%20RH!";
+export const WHATSAPP_LINK = "https://wa.me/559185897007?text=Olá,%20gostaria%20de%20saber%20mais%20sobre%20a%20Impulse%20RH!";

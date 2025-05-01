@@ -79,7 +79,7 @@ const ContactSection: React.FC = () => {
                 <Phone className="text-primary-500 mt-1 mr-4 flex-shrink-0" size={24} />
                 <div>
                   <h4 className="font-medium text-gray-900">Telefone</h4>
-                  <p className="text-gray-600">(11) 99999-9999</p>
+                  <p className="text-gray-600">+55 (91) 8589-7007</p>
                 </div>
               </div>
               
