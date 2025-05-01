@@ -28,7 +28,7 @@ const AboutSection: React.FC = () => {
             <div className="bg-gray-50 p-6 rounded-lg border-l-4 border-primary-500 hover:shadow-lg transition-all duration-300">
               <div className="flex items-center space-x-4 mb-4">
                 <img 
-                  src="public/anapaular.png" 
+                  src="anapaular.png" 
                   alt="Logo" 
                   className="w-16 h-16 rounded-full object-cover"
                 />
