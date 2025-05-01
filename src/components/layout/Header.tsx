@@ -2,6 +2,7 @@ import React, { useState, useEffect } from 'react';
 import { Menu, X } from 'lucide-react';
 import { NAV_ITEMS } from '../../constants/content';
 import Button from '../ui/Button';
+import logoImage from '../../assets/logosemfundo.png';
 
 const Header: React.FC = () => {
   const [isMenuOpen, setIsMenuOpen] = useState(false);
@@ -47,7 +48,7 @@ const Header: React.FC = () => {
         <div className="flex items-center justify-between">
           {/* Logo */}
           <a href="#home" className="flex items-center" onClick={handleNavClick}>
-            <img src="src\assets\logosemfundo.png" alt="Impulse RH" className="h-10" />
+            <img src={logoImage} alt="Impulse RH" className="h-10" />
           </a>
 
           {/* Desktop Navigation */}
