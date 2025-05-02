@@ -81,7 +81,8 @@ const Footer: React.FC = () => {
 
         {/* Copyright */}
         <div className="border-t border-gray-800 pt-6 text-center text-gray-500 text-sm">
-          <p>&copy; {currentYear} Impulse RH. Todos os direitos reservados.</p>
+        <p>&copy; {currentYear} Impulse RH. Todos os direitos reservados.</p>
+        <p> {"<\>"} Desenvolvido por LouzadaTech</p>
         </div>
       </div>
     </footer>
